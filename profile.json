@@ -2,7 +2,7 @@
   "name": "Blancos Primavera POS Agent",
   "version": "1.0.0",
   "description": "Agente automatizado de Inteligencia Artificial para la consulta de inventario, sincronización de catálogos y cotización en mostrador.",
-  "author": "Yagami Corp / Francisco Javier Pizano Rivera",
+  "author": "Yagami Corp",
   "capabilities": [
     "search_catalog",
     "get_product",
