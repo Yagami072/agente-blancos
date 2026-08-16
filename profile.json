@@ -2,11 +2,16 @@
   "name": "Blancos Primavera POS Agent",
   "version": "1.0.0",
   "ucp_version": "2026-04-08",
+  "ucp-version": "2026-04-08",
+  "ucpVersion": "2026-04-08",
   "description": "Agente automatizado de Inteligencia Artificial.",
   "author": "Corp",
-  "capabilities": [
-    "search_catalog",
-    "get_product",
-    "lookup_catalog"
-  ]
+  "capabilities": {
+    "versions": ["2026-04-08"],
+    "supported_methods": [
+      "search_catalog",
+      "get_product",
+      "lookup_catalog"
+    ]
+  }
 }
