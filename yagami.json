@@ -1,7 +1,7 @@
 {
-  "name": "POS Agent",
+  "name": "Generic Commerce Agent",
   "version": "1.0",
   "ucp_version": "2026-04-08",
-  "description": "Agente automatizado de Yagami Corp",
+  "description": "Automated inventory lookup",
   "capabilities": ["search_catalog", "get_product"]
 }
